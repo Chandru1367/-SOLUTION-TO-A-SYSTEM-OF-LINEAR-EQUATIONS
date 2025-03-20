@@ -29,8 +29,7 @@ print(result)
 
 ## Output:
 
-![Screenshot 2025-03-13 134559](https://github.com/user-attachments/assets/fceac997-feaf-48c5-ad52-974307544928)
-
+![alt text](<Screenshot 2025-03-13 134559.png>)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
